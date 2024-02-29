@@ -1,5 +1,6 @@
 **Welcome to my data analytics portfolio repository**, where I showcase three distinct projects aimed at extracting actionable insights from data. Each project utilizes different tools and techniques to analyze datasets, visualize trends, and uncover valuable insights.
 
+
 **Projects:**
 
 **Excel Analytics Project:**
@@ -30,4 +31,4 @@ If you find any issues or have ideas for improvement, please raise them through 
 Acknowledge any contributors, data sources, or inspirations for the projects.
 
 
-                                            **Thank you for visiting my Data Analytics Portfolio repository!**
+**Thank you for visiting my Data Analytics Portfolio repository!**
