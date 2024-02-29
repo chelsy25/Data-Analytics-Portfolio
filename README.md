@@ -1,6 +1,6 @@
-Welcome to my data analytics portfolio repository, where I showcase three distinct projects aimed at extracting actionable insights from data. Each project utilizes different tools and techniques to analyze datasets, visualize trends, and uncover valuable insights.
+**Welcome to my data analytics portfolio repository**, where I showcase three distinct projects aimed at extracting actionable insights from data. Each project utilizes different tools and techniques to analyze datasets, visualize trends, and uncover valuable insights.
 
-Projects:
+**Projects:**
 
 **Excel Analytics Project:**
 
@@ -8,9 +8,11 @@ This project includes an Excel-based dataset and a meticulously crafted dashboar
 **Power BI Analytics Project:
 **
 In this project, I present a Power BI-based solution featuring a cleaned dataset and a comprehensive dashboard. Leveraging the capabilities of Power BI, the dashboard provides interactive visualizations and in-depth insights derived from the data.
+
 **Hotel Data Analysis Project:**
 
 The "Hotel Data Analysis" project is a comprehensive endeavor that combines SQL querying and Power BI visualization techniques. Focused on understanding user behavior and industry trends within the hotel sector, the project aims to uncover insights specific to our establishment. Through rigorous analysis, the project provides actionable intelligence to drive strategic decisions and enhance operational efficiency.
+
 **Key Features:**
 
 Diverse range of projects showcasing proficiency in Excel, Power BI, SQL, and data analysis.
@@ -27,4 +29,5 @@ If you find any issues or have ideas for improvement, please raise them through 
 
 Acknowledge any contributors, data sources, or inspirations for the projects.
 
-**Thank you for visiting my Data Analytics Portfolio repository!**
+
+                                            **Thank you for visiting my Data Analytics Portfolio repository!**
